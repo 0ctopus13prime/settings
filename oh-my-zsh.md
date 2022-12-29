@@ -1,7 +1,7 @@
 ## Sites
-https://ohmyz.sh
-https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-https://velog.io/@insutance/Oh-My-Zsh-%EC%84%A4%EC%B9%98 : It walks you through the basics of installing oh-my-zsh in your terminal.
+https://ohmyz.sh <br/>
+https://github.com/ohmyzsh/ohmyzsh/wiki/Themes <br/>
+https://velog.io/@insutance/Oh-My-Zsh-%EC%84%A4%EC%B9%98 : It walks you through the basics of installing oh-my-zsh in your terminal. <br/>
 https://stackoverflow.com/questions/27885057/zsh-theme-for-full-path-display-git-changes : How to tell ohmyz to display absolute path of the current working directory.
 
 ## Steps
